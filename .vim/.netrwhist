@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mmaruyam_0830/work/foo'
+let g:netrw_dirhist_2='/Users/mmaruyam_0830/work/schedule/app/views/users'
+let g:netrw_dirhist_3='/Users/mmaruyam_0830/work/schedule/app'
+let g:netrw_dirhist_4='/Users/mmaruyam_0830/work/schedule/app/controllers'
+let g:netrw_dirhist_5='/Users/mmaruyam_0830/work/schedule/app/helpers'
+let g:netrw_dirhist_6='/Users/mmaruyam_0830/work/schedule/config'
+let g:netrw_dirhist_7='/Users/mmaruyam_0830/Documents/Titanium Studio Workspace/manero-api-padrino/db/migrate'
